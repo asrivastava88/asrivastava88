@@ -1,9 +1,7 @@
-<h1 align="center">Hi! 👋 I'm Avinash Srivastava</h1>
+<h1 align="center">Network Automation is FUN!!</h1>
 <h3 align="center">Beginner Level Network Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrivastava88&label=Profile%20views&color=0e75b6&style=flat" alt="asrivastava88" /> </p>
-
-🌱 I’m currently learning **Python, Ansible, CI/CD**
 
 
 <h3 align="left">Languages and Tools:</h3>
