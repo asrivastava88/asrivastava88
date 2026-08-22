@@ -11,7 +11,7 @@ I am a **Network Reliability Engineer** — I build automation for and operate p
 | Routing & Switching | Juniper Junos · Cisco IOS-XE / NX-OS |
 | Intent-based Config & Analytics | Juniper Apstra |
 | Security | FortiGate, FortiManager, other Forti-tools |
-| AD | F5 BIG-IP  · DNS · LTM |
+| Application Delivery | F5 BIG-IP  · DNS · LTM |
 | PKI | Keyfactor |
 | DDI | Infoblox NIOS |
 
