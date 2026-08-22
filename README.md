@@ -1,6 +1,6 @@
 <h1 align="center">Network Automation is FUN!!</h1>
 
-I am a **Network Reliability Engineer** — I automate and keep production datacenter and WAN networks running. I treat network state as declarative, version-controlled code rather than device-by-device CLI.
+I am a **Network Reliability Engineer** — I build automation for and operate production Datacenter, WAN & Campus Networks.
 
 ---
 
@@ -8,10 +8,10 @@ I am a **Network Reliability Engineer** — I automate and keep production datac
 
 | Domain | Platforms |
 |---|---|
-| Routing & Switching | Juniper Junos · Cisco IOS-XE / NX-OS · Arista EOS |
+| Routing & Switching | Juniper Junos · Cisco IOS-XE / NX-OS |
 | Intent-based Config & Analytics | Juniper Apstra |
-| Security | FortiGate & FortiManager |
-| ADC | F5 BIG-IP |
+| Security | FortiGate, FortiManager, other Forti-tools |
+| AD | F5 BIG-IP  · DNS · LTM |
 | PKI | Keyfactor |
 | DDI | Infoblox NIOS |
 
