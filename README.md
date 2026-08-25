@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-srivastava-7108771a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  <img src="https://img.shields.io/badge/Learning-AI%20Networks-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING-AI%20NETWORKS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA AI Networks" />
 </p>
 
 ## 👤 About Me
