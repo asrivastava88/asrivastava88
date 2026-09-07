@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=header" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/avinash-srivastava-7108771a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+## 👤 About Me
+I am a **Network Reliability Engineer** — I operate and build automation for production Datacenter, WAN & Campus Networks.
+<p align="left">
   <img src="https://img.shields.io/badge/LEARNING-AI%20NETWORKS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA AI Networks" />
 </p>
 
-## 👤 About Me
-I am a **Network Reliability Engineer** — I operate and build automation for production Datacenter, WAN & Campus Networks.
 
 ## 🎯 Core Focus
 | Domain | Platforms |
@@ -28,5 +27,9 @@ I am a **Network Reliability Engineer** — I operate and build automation for p
 
 ### A Note to Visitors
 Most of my day-to-day engineering lives in private enterprise repositories. This account holds selected personal projects, lab work, and reference material.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinash-srivastava-sri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=footer" width="100%"/>
