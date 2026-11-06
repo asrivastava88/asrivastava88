@@ -25,9 +25,6 @@ I am a **Network Reliability Engineer** — I operate and build automation for p
 **Automation**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### A Note to Visitors
-Most of my day-to-day engineering lives in private enterprise repositories. This account holds selected personal projects, lab work, and reference material.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/avinash-srivastava-sri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
